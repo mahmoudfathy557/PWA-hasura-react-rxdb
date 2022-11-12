@@ -1,5 +1,5 @@
 export const AUTH_CONFIG = {
-  domain: 'l1cache.auth0.com',
-  clientId: 'g8VusvQ1M9BpCURVjm6shT9gQePDHyJE',
-  callbackUrl: 'https://rxdb-hasura-demo.netlify.app/callback'
-};
+  domain: 'dev-uehvkpra.us.auth0.com',
+  clientId: 'YwE3oG1evlydgWcePxEIlxyK9dNLA3ch',
+  callbackUrl: 'http://localhost:3000/callback',
+}
